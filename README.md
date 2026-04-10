@@ -2,4 +2,4 @@
 
 This repository contains the source code for the project page of the paper **SimMotionEdit** (CVPR 2025).
 
-[Live Website](https://lzhyu.github.io/project-website.github.io/)
+[Live Website](https://lzhyu.github.io/SimMotionEdit.github.io/)
